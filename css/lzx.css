@@ -1,0 +1,23 @@
+ body{
+    margin-bottom : 50px;
+ }
+        .carousel{
+            width: 800px;
+        }
+        .carousel .item{
+            width: 800px;
+            background-color: #000;
+        }
+        .carousel .item img{
+            max-height: 225px;
+            width: 100%;
+        }
+ 
+#index_brief .col-sm-4  {
+    text-align: center;
+}
+ #index_brief .col-sm-4 p{
+    text-align: left;
+
+ }
+ 
